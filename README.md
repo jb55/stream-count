@@ -11,7 +11,7 @@
 
     $ npm install stream-count
 
-## API
+## Example
 
 ```js
 var count = require('stream-count')
